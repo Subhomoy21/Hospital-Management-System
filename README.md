@@ -1,6 +1,8 @@
 # Hospital Management System
 The functionalities of each module are:
-Admin:
+
+ADMIN :
+
 1.)Add Doctor
 2.)Edit Doctor Details
 3.)Delete Doctor
@@ -12,13 +14,15 @@ Admin:
 9.)See no of doctors in the hospital
 10.)See no of appointments in the hospital and which patient has been appointed to which doctor
 __________________________________________________________________________
-Doctor:
+DOCTOR :
+
 1.)Can Update only his phone number and password rest are only readable
 2.)See how many patients have been appointed to him with their details
 3.)Comment on their health status and it will be updated throughout the application
 4.)Logout functionality
 _____________________________________________________________________________
-User:
+USER:
+
 1.)Can add many several appointments with a single user id with the option to choose the doctor with whom each patient wants to get treated.
 2.) While choosing a doctor for an appointment, the doctor's specialty is written with it.
 3.)User can check their health status updated by the doctor
